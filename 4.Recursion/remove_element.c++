@@ -19,6 +19,7 @@ void removeX(char S[])
     if(S[0] != 'x')
     {
         removeX(S + 1);
+        
     }
     else
     {

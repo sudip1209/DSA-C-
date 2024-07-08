@@ -8,6 +8,7 @@ int len(char S[])
         return 0;
     }
     return 1+len(S+1);
+    
 }
 int main()
 {
