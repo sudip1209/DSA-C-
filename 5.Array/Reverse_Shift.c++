@@ -94,7 +94,7 @@ void left_rotate(struct Array *arr)
 }
 
 
-//Right Rotate
+//Right Rotat
 void right_rotate(struct Array *arr)
 {
     int i;

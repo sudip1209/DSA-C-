@@ -10,7 +10,6 @@ struct Array{
 
 int BinrySearch(struct Array *arr,int low,int high,int key)
 {
-    int mid=(low+high)/2;
     while(low<high)
     {
         int mid=(low+high)/2;
