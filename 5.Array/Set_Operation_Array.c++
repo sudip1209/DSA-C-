@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 struct Array{
     int a[20];
     int size;
@@ -42,6 +43,7 @@ void Union(struct Array *arr1, struct Array *arr2, struct Array *arr3)
 }
 
 //union operation on UNsorted array
+
 void RUnion(struct Array *arr1, struct Array *arr2, struct Array *arr3) {
     int k = 0;
     
