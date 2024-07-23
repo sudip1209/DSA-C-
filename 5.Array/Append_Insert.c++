@@ -49,7 +49,7 @@ void display(struct Array arr)
 int main()
 {
     struct Array arr={{1,2,3,4,5},10,5};
-
+// all operations 
     // cout<<"Enter size of array "<<endl;
 
     // cin>>arr.size;
